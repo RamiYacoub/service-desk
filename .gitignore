@@ -1,0 +1,14 @@
+# Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/application.properties
+
+# Frontend
+frontend/.dart_tool/
+frontend/build/
+frontend/.idea/
+
+# General
+.env
+.DS_Store
